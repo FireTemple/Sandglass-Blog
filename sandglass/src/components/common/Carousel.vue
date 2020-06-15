@@ -53,7 +53,7 @@
 
   .el-carousel__item div{
     color: white;
-    font-size: 18px;
+    font-size: 58px;
     opacity: 0.75;
     height: 100%;
     text-align: center;
@@ -64,7 +64,7 @@
     margin-top:-100px;
   }
 
-  .el-carousel__item div>h1,p{
+  .el-carousel__item div h1,p{
     margin-bottom: 30px;
   }
 
